@@ -1,6 +1,6 @@
 $ TyPython example of loop with while $
 :
-BOOLEAN x;
+INTEGER x;
 x <- 1;
 WHILE (x = 1):
     WRITE("LOOP");
